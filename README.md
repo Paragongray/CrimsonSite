@@ -1,0 +1,2 @@
+# CrimsonSite
+A newbie website
